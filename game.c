@@ -1,3 +1,6 @@
+// this is the bouncy ball simulation game in which you can move padle to move ball.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -235,3 +238,4 @@ int main(void) {
 
     return 0;
 }
+
